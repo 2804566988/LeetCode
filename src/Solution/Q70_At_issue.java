@@ -1,6 +1,6 @@
 package Solution;
 
-public class Q70 {
+public class Q70_At_issue{
     public int climbStairs(int n) {
     return 0;
     }

@@ -1,6 +1,6 @@
 package Solution;
 
-public class Q69 {
+public class Q69_At_issue{
     static class Solution {
         public int mySqrt(int x) {
             if(x == 1){
