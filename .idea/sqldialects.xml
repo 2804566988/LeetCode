@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/src/Database/Q175.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/src/Database/Q181.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/src/Database/Q182.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/src/Database/Q183.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/src/Database/Q184.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Database/Q175.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Database/Q181.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Database/Q182.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Database/Q183.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Database/Q184.sql" dialect="GenericSQL" />
     <file url="PROJECT" dialect="GenericSQL" />
   </component>
 </project>
